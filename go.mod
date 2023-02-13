@@ -26,8 +26,7 @@ require (
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
 	github.com/opencontainers/image-spec v0.0.0-20171103113604-89b51c794e91 // indirect
 	github.com/opencontainers/runc v0.0.0-20171108154827-b2567b37d7b7 // indirect
-	github.com/opencontainers/selinux v1.3.0 // indirect
-	github.com/pkg/errors v0.0.0-20171018195549-f15c970de5b7 // indirect
+	github.com/opencontainers/selinux v1.3.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/sirupsen/logrus v0.0.0-20170822132746-89742aefa4b2 // indirect
 	github.com/spf13/cobra v0.0.0-20150521034341-8f5946caaeef
