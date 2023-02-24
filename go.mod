@@ -33,7 +33,7 @@ require (
 	github.com/spf13/cobra v0.0.0-20150521034341-8f5946caaeef
 	github.com/spf13/pflag v0.0.0-20171106142849-4c012f6dcd95 // indirect
 	github.com/stretchr/testify v0.0.0-20171018052257-2aa2c176b9da
-	golang.org/x/crypto v0.0.0-20171108091819-6a293f2d4b14 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.18
